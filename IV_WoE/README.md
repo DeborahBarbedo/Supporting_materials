@@ -1,5 +1,3 @@
-# WoE and Information Value  - Supporting Materials
-
 # Supporting Materials for WoE and Information Value Blog Posts
 
 This repository contains supporting materials for my blog posts on WoE and Information Value, which are designed to help you better understand these concepts and how to use them in your own data analysis projects.
