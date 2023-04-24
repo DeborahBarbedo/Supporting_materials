@@ -9,6 +9,7 @@ Check out my [blog](https://deborahbarbedo.github.io/) to access these materials
 ## Posts about WoE and Information Value:
 
 - [Function in Python to calculate WoE and IV](https://deborahbarbedo.github.io/posts/2023-04-09-WoE_IV_Python_Function)
+- [Função em Python para calcular WoE e IV](https://deborahbarbedo.github.io/pt/2023-04-17-WoE_IV_Python_Function)
 
 
 ## Feedback and Contributions
