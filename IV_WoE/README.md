@@ -10,7 +10,9 @@ Check out my [blog](https://deborahbarbedo.github.io/) to access these materials
 
 - [Function in Python to calculate WoE and IV](https://deborahbarbedo.github.io/posts/2023-04-09-WoE_IV_Python_Function)
 - [Função em Python para calcular WoE e IV](https://deborahbarbedo.github.io/pt/2023-04-17-WoE_IV_Python_Function)
-
+- [Mastering Logistic Regression: Unpacking WOE and IV Metrics for Variable Selection and Interpretation.](https://deborahbarbedo.github.io/posts/2023-04-24-Unpacking_WOE_and_IV)
+- [Dominando a Regressão Logística: Desvendando as Métricas WoE e IV para Seleção e Interpretação de Variáveis.](https://deborahbarbedo.github.io/pt/2023-05-08-Unpacking_WOE_and_IV)
+- [Mastering Logistic Regression: A Comprehensive Guide to WoE and IV Calculation.](https://deborahbarbedo.github.io/posts/2023-06-05-WoE_IV_Calculation)
 
 ## Feedback and Contributions
 If you have any feedback or suggestions for improvement, or if you would like to contribute to this project, please feel free to open an issue or pull request on this repository.
