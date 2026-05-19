@@ -1,0 +1,11 @@
+ID;Type;Capacity (kg);Material;Notes;Temperature;Humidity
+B1;Thermal;10;Insulated;Ideal for cold or humid items;Cold;Humid
+B1;Thermal;10;Insulated;Ideal for cold or humid items;Cool;Humid
+B1;Thermal;10;Insulated;Ideal for cold or humid items;Very Cold;Humid
+B2;Fabric;8;Light cloth;Breathable but not moisture-proof;Cool;Dry
+B2;Fabric;8;Light cloth;Breathable but not moisture-proof;Room;Dry
+B3;Plastic;6;Waterproof;Protects against liquids;Room;Dry
+B3;Plastic;6;Waterproof;Protects against liquids;Cool;Dry
+B3;Plastic;6;Waterproof;Protects against liquids;Room;Humid
+B3;Plastic;6;Waterproof;Protects against liquids;Cool;Humid
+B4;Cardboard;5;Fragile;Unsuitable for humid or heavy items;Room;Dry
