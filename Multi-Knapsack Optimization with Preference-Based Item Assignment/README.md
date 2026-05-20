@@ -74,9 +74,9 @@ $$
 
 ## Blog Post
 
-The complete explanation of the mathematical formulation and implementation is available on my blog:
+The complete explanation of the mathematical formulation and implementation is available on the blog post:
 
-👉 https://deborahbarbedo.github.io/
+[Multiple Knapsack Problem with Affinity-Based Allocation | Blog Post](https://deborahbarbedo.github.io/posts/2026-05-18-MKP)
 
 ---
 
