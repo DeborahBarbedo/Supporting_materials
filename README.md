@@ -1,6 +1,6 @@
 # Supporting materials
-This repository contains supporting materials for my [blog](https://deborahbarbedo.github.io/), which is focused on introducing readers to the tools and knowledge necessary to harness the power of data through statistics and machine learning.
 
+This repository contains supporting materials for my [Data Science & Statistics Blog](https://deborahbarbedo.github.io/), which is focused on introducing readers to the tools and knowledge necessary to harness the power of data through statistics and machine learning.
 
 ## Description
 This repository includes various types of supporting materials, such as code snippets, images, templates, and data sets. These materials are intended to support my blog by providing practical examples and tools for readers to apply the concepts discussed in the articles.
